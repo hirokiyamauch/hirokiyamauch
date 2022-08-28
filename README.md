@@ -1,7 +1,7 @@
 ### Hi there 👋
-プロフィール \\
-名前：山内　洋輝 \\
-所属：愛媛大学大学院 工学部工学科　コンピュータ科学コース 人工知能研究室 \\
+プロフィール \n
+名前：山内　洋輝 \n
+所属：愛媛大学大学院 工学部工学科　コンピュータ科学コース 人工知能研究室 \n
 Email：yamauchi@ai.cs.ehime-u.ac.jp
 <!--
 **hirokiyamauch/hirokiyamauch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
