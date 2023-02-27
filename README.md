@@ -14,7 +14,7 @@ Email：yamauchi@ai.cs.ehime-u.ac.jp
 
 公開モデル
 
-###学術ドメイン特化モデル
+### 学術ドメイン特化モデル
 - [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) 
 - [AcademicBART](https://github.com/EhimeNLP/AcademicBART)
 <!--
