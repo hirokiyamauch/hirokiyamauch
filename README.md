@@ -13,7 +13,8 @@ Email：yamauchi@ai.cs.ehime-u.ac.jp
 - 山内洋輝，梶原智之，桂井麻里衣，大向一輝，二宮崇．<br>学術ドメインに特化した日本語事前訓練モデルの構築．<br>言語処理学会第29回年次大会 ，2023.
 
 公開モデル
-学術ドメイン特化モデル
+
+###学術ドメイン特化モデル
 - [AcademicRoBERTa](https://github.com/EhimeNLP/AcademicRoBERTa) 
 - [AcademicBART](https://github.com/EhimeNLP/AcademicBART)
 <!--
