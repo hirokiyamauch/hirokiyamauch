@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 資格
+ - SIGNATE Expert [プロフィール](https://signate.jp/profile)
