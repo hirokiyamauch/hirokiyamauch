@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
  資格
  - SIGNATE Expert [プロフィール](https://signate.jp/users/80722)
- - Atcoder 茶色 [プロフィール](https://atcoder.jp/users/hironoyama)
 
 インターン経験
 - 株式会社豊田中央研究所 2023/9   <br>
